@@ -1,0 +1,51 @@
+[
+  {
+    "subject": "chemistry",
+    "exam": "cat-2",
+    "grade": 90,
+    "date": "2026-03-22",
+    "notes": ""
+  },
+  {
+    "subject": "biology",
+    "exam": "cat-2",
+    "grade": 95,
+    "date": "2026-03-24",
+    "notes": ""
+  },
+  {
+    "subject": "complex variable",
+    "exam": "cat-2",
+    "grade": 89,
+    "date": "2026-03-23",
+    "notes": ""
+  },
+  {
+    "subject": "network theory ",
+    "exam": "cat-2",
+    "grade": 85,
+    "date": "2026-03-25",
+    "notes": ""
+  },
+  {
+    "subject": "english",
+    "exam": "cat-2",
+    "grade": 97,
+    "date": "2026-03-28",
+    "notes": ""
+  },
+  {
+    "subject": "digital logic design",
+    "exam": "cat-2",
+    "grade": 65,
+    "date": "2026-03-30",
+    "notes": ""
+  },
+  {
+    "subject": "signals and system",
+    "exam": "cat-2",
+    "grade": 48,
+    "date": "2026-03-21",
+    "notes": "workout more sums"
+  }
+]

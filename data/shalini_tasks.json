@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "seminar ",
+    "subject": "english",
+    "deadline": "2026-04-01",
+    "priority": "Medium",
+    "notes": "",
+    "done": true,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 1,
+    "title": "lab practicals ",
+    "subject": "biology",
+    "deadline": "2026-04-02",
+    "priority": "High",
+    "notes": "complete record and submit",
+    "done": false,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 2,
+    "title": "hackathon ",
+    "subject": "java",
+    "deadline": "2026-04-01",
+    "priority": "High",
+    "notes": "complete web designing\n",
+    "done": false,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 3,
+    "title": "case study",
+    "subject": "chemsitry",
+    "deadline": "2026-04-15",
+    "priority": "Medium",
+    "notes": "",
+    "done": false,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 4,
+    "title": "research paper ",
+    "subject": "physics ",
+    "deadline": "2026-04-30",
+    "priority": "Low",
+    "notes": "read atleast 30 papers and write a report ",
+    "done": false,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 5,
+    "title": "club interview",
+    "subject": "IEEE",
+    "deadline": "2026-04-04",
+    "priority": "High",
+    "notes": "have at least 3 practice sessions",
+    "done": false,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 6,
+    "title": "DA submission",
+    "subject": "Signals and system",
+    "deadline": "2026-04-09",
+    "priority": "High",
+    "notes": "",
+    "done": false,
+    "created": "2026-04-01"
+  },
+  {
+    "id": 7,
+    "title": "project ",
+    "subject": "chemistry",
+    "deadline": "2026-04-28",
+    "priority": "Low",
+    "notes": "do research , do analysis, and make report \n ",
+    "done": false,
+    "created": "2026-04-01"
+  }
+]

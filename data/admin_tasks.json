@@ -1,0 +1,42 @@
+ app.pu [
+  {
+    "id": 0,
+    "title": "hackathon",
+    "subject": "java",
+    "deadline": "2026-03-31",
+    "priority": "High",
+    "notes": "create an app/website for study planning",
+    "done": false,
+    "created": "2026-03-31"
+  },
+  {
+    "id": 1,
+    "title": "project",
+    "subject": "chemistry",
+    "deadline": "2026-04-12",
+    "priority": "Medium",
+    "notes": "present a ppt for electrochemistry ",
+    "done": false,
+    "created": "2026-03-31"
+  },
+  {
+    "id": 2,
+    "title": "review paper ",
+    "subject": "english",
+    "deadline": "2026-04-20",
+    "priority": "Low",
+    "notes": "refer at least 50 papers",
+    "done": true,
+    "created": "2026-03-31"
+  },
+  {
+    "id": 3,
+    "title": "seminar",
+    "subject": "english",
+    "deadline": "2026-03-31",
+    "priority": "Medium",
+    "notes": "",
+    "done": true,
+    "created": "2026-03-31"
+  }
+]

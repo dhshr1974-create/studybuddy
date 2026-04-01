@@ -1,0 +1,30 @@
+cookie:
+  expiry_days: 30
+  key: studybuddy_secret_key_2024
+  name: studybuddy_cookie
+credentials:
+  usernames:
+    abi:
+      email: abilakshanas@gmail.com
+      failed_login_attempts: 0
+      first_name: Abilakshana
+      last_name: srinivasan
+      logged_in: true
+      password: $2b$12$Ef/6ivDI0i1c.1XXvKgrPOISLiM/o1q4RO/1ET7ppE2jQ050ZWTZa
+      password_hint: alphabet
+      roles: null
+    admin:
+      email: admin@studybuddy.com
+      name: Admin User
+      password: $2b$12$4mNKTzhWS6OG3NukYCk1zenm7trvQ//8FESeoA15SMIgDTLMrugqG
+    shalini:
+      email: dhshr1974@gmail.com
+      failed_login_attempts: 0
+      first_name: Shalini
+      last_name: ramkumar
+      logged_in: true
+      password: $2b$12$lQyF9bJukLj2M7ylqnFZn.cSdxXpaQjLmDdQ4zKtBtHdriDR40jxS
+      password_hint: alphabet
+      roles: null
+preauthorized:
+  emails: []
